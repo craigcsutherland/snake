@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: lime;
+    background-color: rgb(104, 104, 104);
+    
+}
+
+h1 {
+    color: lime;
+    text-align: center;
+    line-height: 1.25;
+    font-size: 40px;
+}
+
+#score {
+    position:absolute;
+    top: 9px;
+    right: 200px;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
