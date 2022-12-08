@@ -3,23 +3,17 @@
 body {
     font-family: 'Press Start 2P', cursive;
     text-align: center;
-    color: lime;
+    color: rgb(238, 0, 255);
     background-color: rgb(104, 104, 104);
-    
+    background-image: url(images/retro.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
 h1 {
-    color: lime;
+    color: rgb(238, 0, 255);
     text-align: center;
     line-height: 1.25;
     font-size: 40px;
 }
 
-#score {
-    position:absolute;
-    top: 9px;
-    right: 200px;
-    font-size: 40px;
-    font-weight: bold;
-    
-}
